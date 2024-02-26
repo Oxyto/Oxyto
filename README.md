@@ -1,5 +1,5 @@
 # Yo ✌
-### Bienvenu(e) sur mon petit profile Github.
+### Bienvenu(e) sur mon petit profil Github.
 
 - 21 ans 👱‍♂️
 - Etudiant à Epitech Paris 🎓
